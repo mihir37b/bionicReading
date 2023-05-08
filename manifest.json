@@ -1,0 +1,11 @@
+{
+  "name": "Bionic Reading",
+  "version": "1.0.0",
+  "description": "Tool to help you read faster",
+  "manifest_version": 3,
+  "author": "Mihir B",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Bionic Reading"
+  }
+}
